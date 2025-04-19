@@ -26,11 +26,6 @@ The goal of this project is to build an end-to-end streaming architecture that m
 
 ## Project Structure
 
-```bash
-.
-├── kafka_producer.py         # Sends real-time stock data to Kafka
-├── kafka_consumer.py         # Reads from Kafka and uploads to S3
-├── stock_data/               # Sample data folder
-├── glue_catalog_config/      # AWS Glue configuration
-├── athena_queries/           # Sample SQL queries
-└── README.md
+![Architecture](https://github.com/user-attachments/assets/9f7d1c2c-e5bd-4ae9-a73f-20aba58ee30e)
+
+
