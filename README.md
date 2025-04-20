@@ -13,7 +13,6 @@ The goal of this project is to build an end-to-end streaming architecture that m
 - **AWS S3** – Data lake to store the stream
 - **AWS Glue** – For data cataloging and ETL jobs
 - **AWS Athena** – To run SQL queries on the stored data
-- **Docker (optional)** – For local Kafka setup
 
 ## Features
 
